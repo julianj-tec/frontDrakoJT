@@ -8,18 +8,13 @@
     margin-bottom: 15px;
 }
 
-.selectTipoEstado, .selectTipoLlamada {
-    width: 50%;
-}
-
-.nombreEstadoTxtArea {
-    height: 150px;
-}
-
-.selectEstadoGestion, .selectTipoGestion {
-    width: 70%;
-}
-
-.nombreSubEstadoTxtArea {
-    height: 150px;
+/*CARD ESTADOS SUBESTADOS*/
+.card-estados-subestados {
+    max-width: 1200px;
+    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 3rem;
 }
